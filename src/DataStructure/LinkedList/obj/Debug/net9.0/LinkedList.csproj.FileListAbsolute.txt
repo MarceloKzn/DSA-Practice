@@ -1,0 +1,15 @@
+D:\.Documentos Importantes\.Github repository's\DSA-Practice\src\DataStructure\LinkedList\obj\Debug\net9.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Documentos Importantes\.Github repository's\DSA-Practice\src\DataStructure\LinkedList\obj\Debug\net9.0\LinkedList.AssemblyInfoInputs.cache
+D:\.Documentos Importantes\.Github repository's\DSA-Practice\src\DataStructure\LinkedList\obj\Debug\net9.0\LinkedList.AssemblyInfo.cs
+D:\.Documentos Importantes\.Github repository's\DSA-Practice\src\DataStructure\LinkedList\obj\Debug\net9.0\LinkedList.csproj.CoreCompileInputs.cache
+D:\.Documentos Importantes\.Github repository's\DSA-Practice\src\DataStructure\LinkedList\obj\Debug\net9.0\LinkedList.sourcelink.json
+D:\.Documentos Importantes\.Github repository's\DSA-Practice\src\DataStructure\LinkedList\bin\Debug\net9.0\LinkedList.exe
+D:\.Documentos Importantes\.Github repository's\DSA-Practice\src\DataStructure\LinkedList\bin\Debug\net9.0\LinkedList.deps.json
+D:\.Documentos Importantes\.Github repository's\DSA-Practice\src\DataStructure\LinkedList\bin\Debug\net9.0\LinkedList.runtimeconfig.json
+D:\.Documentos Importantes\.Github repository's\DSA-Practice\src\DataStructure\LinkedList\bin\Debug\net9.0\LinkedList.dll
+D:\.Documentos Importantes\.Github repository's\DSA-Practice\src\DataStructure\LinkedList\bin\Debug\net9.0\LinkedList.pdb
+D:\.Documentos Importantes\.Github repository's\DSA-Practice\src\DataStructure\LinkedList\obj\Debug\net9.0\LinkedList.dll
+D:\.Documentos Importantes\.Github repository's\DSA-Practice\src\DataStructure\LinkedList\obj\Debug\net9.0\refint\LinkedList.dll
+D:\.Documentos Importantes\.Github repository's\DSA-Practice\src\DataStructure\LinkedList\obj\Debug\net9.0\LinkedList.pdb
+D:\.Documentos Importantes\.Github repository's\DSA-Practice\src\DataStructure\LinkedList\obj\Debug\net9.0\LinkedList.genruntimeconfig.cache
+D:\.Documentos Importantes\.Github repository's\DSA-Practice\src\DataStructure\LinkedList\obj\Debug\net9.0\ref\LinkedList.dll
