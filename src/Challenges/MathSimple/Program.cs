@@ -7,7 +7,8 @@ class Program
         var challenges = new List<IChallenge>
         {
             new ImparOuPar(),
-            new MaiorQue()
+            new MaiorQue(),
+            new MediaDeTres()
         };
 
         Console.WriteLine("Escolha um desafio:");
